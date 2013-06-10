@@ -1,0 +1,11 @@
+BAM Car Dealership would like to implement an application where they can keep track of 
+their inventory and give potential customers an easy way to browse the inventory.  The 
+application would store data about the dealerships inventory and details about the cars
+in stock such as make, model, miles, and price.  There will be Managers that will 
+add and remove cars from the application. The Managers will need to be authenticated
+by the application.  A Manager can add other Managers to the application to delegate
+workload.
+Any potential customer can view cars in the dealerships inventory by browsing or by 
+searching.  A potential customer can view a car in stock and ask the dealership a question
+about the car they are viewing.  The potential customer should be well informed of any cars
+they may be interested in purchasing when they visit the dealership.  
