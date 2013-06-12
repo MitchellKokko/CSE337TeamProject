@@ -5,8 +5,12 @@ CarDealership::Application.routes.draw do
   resources :admins
   match 'admins/index' => 'admins#index'
 
-  resources :cars
-  root :to => 'cars#index'
+  resources :cars   do
+    collection {post :search, to: 'cars#index'}
+  end
+
+
+
 
 
   # The priority is based upon order of creation:

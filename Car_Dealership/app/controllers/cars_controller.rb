@@ -4,6 +4,8 @@ class CarsController < ApplicationController
   def index
     @search = Car.search(params[:q])
     @cars = @search.result
+    @search.build_condition if @search.conditions.empty?
+    @search.build_sort if @search.sorts.empty?
 
 =begin
     respond_to do |format|

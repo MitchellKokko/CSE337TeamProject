@@ -8,23 +8,19 @@
     <div class="content">
       <h2 class="title"><%= t("web-app-theme.all", :default => "All")  %> Cars</h2>
       <div class="inner">
-        <%=  search_form_for @search do |f| %>
-        <div class="field">
-          <%= f.label :model_cont, "Model contains" %>
-          <%= f.text_field :model_cont %>
-        </div>
-
-
-        <div class="field" style="margin-top:10px;">
-          <%=  f.label :price_gteq, "Price between " %>
-          <%=   f.text_field :price_gteq %>
-          <%=   f.label :price_lteq,"and"%>
-          <%=   f.text_field :price_lteq %>
-        </div>
-
-
-           <div class="actions"><%=f.submit "Search"%></div>
-         <% end %>
+       <%=  search_form_for @search, url: search_cars_path, method: :post do |f| %>
+            <%= f.condition_fields do |c| %>
+                <%= render "condition_fields",f: c %>
+            <%end%>
+            <p><%=  link_to_add_fields "Add Conditions", f, :condition %></p>
+            <div class="field">
+              Sort:
+              <%=  f.sort_fields do |s| %>
+                <%=  s.sort_select %>
+              <% end %>
+            </div>
+            <div class="actions"><%=f.submit "Search"%></div>
+        <% end %>
 
 
         <table class="table">

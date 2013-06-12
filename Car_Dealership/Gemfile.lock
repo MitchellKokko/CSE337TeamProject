@@ -115,6 +115,7 @@ DEPENDENCIES
   rails (= 3.2.13)
   ransack
   sass-rails (~> 3.2.3)
+  sprockets
   sqlite3
   uglifier (>= 1.0.3)
   web-app-theme
