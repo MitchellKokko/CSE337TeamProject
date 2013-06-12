@@ -1,48 +1,116 @@
-<div class="block">
-  <div class="secondary-navigation">
-    <ul class="wat-cf">
-      <li class="first active"><%= link_to "#{t("web-app-theme.list", :default => "List")}", cars_path  %></li>
-      <li><%= link_to "#{t("web-app-theme.new", :default => "New")}", new_car_path %></li>
-    </ul>
-  </div>          
-  <div class="content">          
-    <h2 class="title"><%= t("web-app-theme.all", :default => "All")  %> Cars</h2>
-    <div class="inner">
-      <table class="table">
-        <tr>             
-          <th class="first">ID</th>
-                    <th>
-            <%= t("activerecord.attributes.car.make", :default => t("activerecord.labels.make", :default => "Make")) %>
-          </th>
-                    <th><%= t("web-app-theme.created_at", :default => "Created at")  %></th>
-          <th class="last">&nbsp;</th>
-        </tr>
-        <% @cars.each do |car| -%>
-        <tr class="<%= cycle("odd", "even") %>">
-          <td>
-            <%= car.id %>
-          </td>
-                    <td>
-            <%= link_to car.make, car_path(car) %>
-          </td>
-                    <td>
-            <%= car.created_at %>
-          </td>
-          <td class="last">
-            <%= link_to "#{t("web-app-theme.show", :default => "Show")}", car_path(car) %> |
-            <%= link_to "#{t("web-app-theme.edit", :default => "Edit")}", edit_car_path(car) %> |
-            <%= link_to "#{t("web-app-theme.delete", :default => "Delete")}", car_path(car), :method => :delete, :confirm => "#{t("web-app-theme.confirm", :default => "Are you sure?")}" %>
-          </td>
-        </tr>          
-        <% end -%>
-      </table>
-      <div class="actions-bar wat-cf">
-        <div class="actions">
+  <div class="block">
+    <div class="secondary-navigation">
+      <ul class="wat-cf">
+        <li class="first active"><%= link_to "#{t("web-app-theme.list", :default => "List")}", cars_path  %></li>
+        <li><%= link_to "#{t("web-app-theme.new", :default => "New")}", new_car_path %></li>
+      </ul>
+    </div>
+    <div class="content">
+      <h2 class="title"><%= t("web-app-theme.all", :default => "All")  %> Cars</h2>
+      <div class="inner">
+        <%=  search_form_for @search do |f| %>
+        <div class="field">
+          <%= f.label :model_cont, "Model contains" %>
+          <%= f.text_field :model_cont %>
         </div>
-        
+
+
+        <div class="field" style="margin-top:10px;">
+          <%=  f.label :price_gteq, "Price between " %>
+          <%=   f.text_field :price_gteq %>
+          <%=   f.label :price_lteq,"and"%>
+          <%=   f.text_field :price_lteq %>
+        </div>
+
+
+           <div class="actions"><%=f.submit "Search"%></div>
+         <% end %>
+
+
+        <table class="table">
+          <tr>
+            <th class="first">ID</th>
+            <th>
+              <%= t("activerecord.attributes.product.name", :default => t("activerecord.labels.name", :default => "Name")) %>
+            </th>
+            <th><%= t("web-app-theme.created_at", :default => "Created at")  %></th>
+            <th class="last">&nbsp;</th>
+          </tr>
+          <% @cars.each do |car| -%>
+              <tr class="<%= cycle("odd", "even") %>">
+                <td>
+                  <%= car.id %>
+                </td>
+                <td>
+                  <%= link_to car.make, car_path(car) %>
+                </td>
+                <td>
+                  <%= car.created_at %>
+                </td>
+                <td class="last">
+                  <%= link_to "#{t("web-app-theme.show", :default => "Show")}", car_path(car) %> |
+                  <%= link_to "#{t("web-app-theme.edit", :default => "Edit")}", edit_car_path(car) %> |
+                  <%= link_to "#{t("web-app-theme.delete", :default => "Delete")}", car_path(car), :method => :delete, :confirm => "#{t("web-app-theme.confirm", :default => "Are you sure?")}" %>
+                </td>
+              </tr>
+          <% end -%>
+        </table>
+        <div class="actions-bar wat-cf">
+          <div class="actions">
+          </div>
+
+        </div>
       </div>
     </div>
   </div>
-</div>
+  <% content_for :sidebar, render(:partial => 'sidebar') -%>
 
-<% content_for :sidebar, render(:partial => 'sidebar') -%>
+
+
+
+
+<!--
+<h1>Listing cars</h1>
+
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Make</th>
+    <th>Model</th>
+    <th>Year</th>
+    <th>Miles</th>
+    <th>Style</th>
+    <th>Description</th>
+    <th>Img url</th>
+    <th>Color</th>
+    <th>Vin</th>
+    <th>Price</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @cars.each do |car| %>
+  <tr>
+    <td><%= car.id %></td>
+    <td><%= car.make %></td>
+    <td><%= car.model %></td>
+    <td><%= car.year %></td>
+    <td><%= car.miles %></td>
+    <td><%= car.style %></td>
+    <td><%= car.description %></td>
+    <td><%= car.img_url %></td>
+    <td><%= car.color %></td>
+    <td><%= car.vin %></td>
+    <td><%= car.price %></td>
+    <td><%= link_to 'Show', car %></td>
+    <td><%= link_to 'Edit', edit_car_path(car) %></td>
+    <td><%= link_to 'Destroy', car, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Car', new_car_path %>
+-->

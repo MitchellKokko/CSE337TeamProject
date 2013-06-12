@@ -1,4 +1,7 @@
 CarDealership::Application.routes.draw do
+  resources :cars
+
+
   resources :admins
   match 'admins/index' => 'admins#index'
 

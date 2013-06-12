@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130609225409) do
+ActiveRecord::Schema.define(:version => 20130611234311) do
 
   create_table "admins", :force => true do |t|
     t.string   "first_name"
@@ -30,8 +30,8 @@ ActiveRecord::Schema.define(:version => 20130609225409) do
     t.integer  "miles"
     t.string   "style"
     t.text     "description"
+    t.string   "img_url"
     t.string   "color"
-    t.string   "string"
     t.integer  "vin"
     t.decimal  "price"
     t.datetime "created_at",  :null => false
