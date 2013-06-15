@@ -1,0 +1,96 @@
+/* Override here any style defined by web-app-theme */
+
+#container {
+    width: 960px;
+    text-align: center;
+    margin: auto;
+}
+
+#main {
+    width: 100% ;
+    text-align: left;
+    float: left;
+}
+
+
+#header {
+    background-color: #28485e;
+    margin-top: 10px;
+}
+
+#header h1{
+    font-family: Arial;
+}
+
+#main-navigation div ul li {
+    float: right
+}
+#basic-search a a:link a:visited{
+    color: white;
+}
+
+#basic-search a:hover {
+    color: lightgray;
+}
+
+.flash {
+    background-color: #8a9daa;
+}
+
+.flash .message p {
+    color: black;
+
+}
+
+#admin_control{
+    padding: 20px;
+    position: fixed;
+    background-color: #333333;
+    width:70px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+#admin_control a {
+    color: white;
+}
+
+#admin_control ul {
+    list-style: none;
+}
+
+.location-details{
+    width: 50%;
+    float: right;
+}
+.location-image{
+    width: 50%;
+    float: left;
+}
+.location-details, .location-image{
+    height: 400px;
+}
+.location-details td{
+    padding: 5px;
+    vertical-align: top;
+}
+
+.global {
+    background-color: #f8f8f8;
+    text-align: left;
+    width: 100%;
+}
+.global ul{
+    list-style: none;
+}
+.global li{
+    display: inline-block;
+    padding: 5px;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.colorfy{
+    background-color: #f8f8f8;
+}

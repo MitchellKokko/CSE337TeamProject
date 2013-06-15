@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BAM Car Dealership</title>
+  <%= stylesheet_link_tag "web-app-theme/base", "web-app-theme/themes/default/style", "web-app-theme/override", :cache => false %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tag %>
+
+</head>
+<body style="background: transparent url('<%= image_path 'plastic.png'%>') repeat-y center top fixed !important">
+
+<% if manager_signed_in? %>
+   <div id="admin_control">
+    <ul>
+     <li><%= link_to "Register", :manager_registration %></li>
+     <li><%= link_to "Edit Profile", :edit_manager_registration %></li>
+     <li><%= link_to "Log out", destroy_manager_session_path,  :method => :delete %></li>
+    </ul>
+   </div>
+<% end %>
+
+<div id="container">
+  <div id="header">
+    <h1><a href="/">BAM Car Dealership</a></h1>
+
+    <% if 1 == 2 %>
+    <div id="user-navigation">
+
+      <ul class="wat-cf">
+
+        <li><%= link_to "Register", :new_manager_registration %></li>
+        <li></li>
+
+      </ul>
+
+    </div>
+    <% end %>
+    <div id="main-navigation" >
+      <ul class="wat-cf">
+        <div id="basic-search">
+      <span style="float:right">
+      <form name="search"  action="/cars/search" method="get" style="border: 0px;">
+          <input  type="text"  name="search_input">
+          <input  type="submit"  value="Search">
+      </form>
+      <a href='#' style="color: white; float: right">Advanced search</a>
+      </span>
+        </div>
+      </ul>
+    </div>
+  </div>
+  <div id="global-nav" class="global">
+       <ul class="wat-cf">
+         <li><a href="/">Home</a></li>
+         <li><%= link_to "Location", :location %></li>
+         <li><%= link_to "Browse", :cars, :method => :get%></li>
+       </ul>
+  </div>
+  <div id="wrapper" class="wat-cf">
+    <div class="flash">
+      <% flash.each do |type, message| -%>
+          <div class="message <%= type %>">
+            <p><%= message %></p>
+          </div>
+      <% end -%>
+    </div>
+    <div id="main">
+
+
+      <%= yield %>
+      <div id="footer">
+        <div class="block">
+          <p>Copyright &copy; <%= Time.now.year %> BAM Car Dealership.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
