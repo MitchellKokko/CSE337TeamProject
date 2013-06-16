@@ -1,64 +1,66 @@
 <div class="block">
+
   <div class="secondary-navigation">
     <ul class="wat-cf">
-      <li class="first"><%= link_to "#{t("web-app-theme.list", :default => "List")}", cars_path  %></li>
-      <li><%= link_to "#{t("web-app-theme.new", :default => "New")}", new_car_path %></li>
-      <li class="active"><%= link_to "#{t("web-app-theme.show", :default => "Show")}", car_path %></li>
+      <li class="first"><%= link_to "#{t("web-app-theme.list", :default => "Back")}", :cars_browse  %></li>
+
+      <li class="active"><%= link_to "#{t("web-app-theme.show", :default => "Car Details")}", car_path %></li>
     </ul>
-  </div>          
+  </div>
+
   <div class="content">
     <div class="inner">
-      
-        <p>
-          <b><%= t("activerecord.attributes.car.make", :default => t("activerecord.labels.make", :default => "Make")) %>:</b>
-          <%= @car.make %>
-        </p>
 
-        <p>
-          <b><%= t("activerecord.attributes.car.model", :default => t("activerecord.labels.model", :default => "Model")) %>:</b>
-          <%= @car.model %>
-        </p>
+      <div id="left-details" style="width: 50%; height: 400px; float: left">
 
-        <p>
-          <b><%= t("activerecord.attributes.car.year", :default => t("activerecord.labels.year", :default => "Year")) %>:</b>
-          <%= @car.year %>
-        </p>
+        <%= link_to image_tag(@car.image_url, :width => '400'), image_path(@car.image_url), :target => '_blank' %>
 
-        <p>
-          <b><%= t("activerecord.attributes.car.miles", :default => t("activerecord.labels.miles", :default => "Miles")) %>:</b>
-          <%= @car.miles %>
-        </p>
-
-        <p>
-          <b><%= t("activerecord.attributes.car.style", :default => t("activerecord.labels.style", :default => "Style")) %>:</b>
-          <%= @car.style %>
-        </p>
-
-        <p>
-          <b><%= t("activerecord.attributes.car.description", :default => t("activerecord.labels.description", :default => "Description")) %>:</b>
-          <%= @car.description %>
-        </p>
-
-        <p>
-          <b><%= t("activerecord.attributes.car.color", :default => t("activerecord.labels.color", :default => "Color")) %>:</b>
-          <%= @car.color %>
-        </p>
-
-        <p>
-          <b><%= t("activerecord.attributes.car.vin", :default => t("activerecord.labels.vin", :default => "Vin")) %>:</b>
-          <%= @car.vin %>
-        </p>
-
-        <p>
-          <b><%= t("activerecord.attributes.car.price", :default => t("activerecord.labels.price", :default => "Price")) %>:</b>
-          <%= number_to_currency @car.price %>
-        </p>
-      <% if manager_signed_in? %>
-      <div class="wat-cf">
-        <%= link_to image_tag("web-app-theme/icons/application_edit.png", :alt => "#{t("web-app-theme.edit", :default=> "Edit")}") + " " + t("web-app-theme.edit", :default=> "Edit"), edit_car_path(@car), :class => "button" %> 
-        <%= link_to image_tag("web-app-theme/icons/cross.png", :alt => "#{t("web-app-theme.delete", :default=> "Delete")}") + " " + t("web-app-theme.delete", :default => "Delete"), car_path(@car), :method => "delete", :class => "button", :confirm => "#{t("web-app-theme.confirm", :default => "Are you sure?")}" %>
       </div>
-      <% end %>
+
+      <div id="right-details" style="width: 50%; height: 400px; float: right">
+        <table>
+           <tr><td class="details-header"><%= @car.year %> <%= @car.make %> <%= @car.model %></td></tr>
+           <tr><td class="details-header"><%= number_to_currency @car.price %></td></tr>
+          <tr>
+            <td>
+            <table>
+              <tr>
+            <td>
+             <b><%= t("activerecord.attributes.car.miles", :default => t("activerecord.labels.miles", :default => "Miles")) %>:</b>
+             <%= number_with_delimiter @car.miles %>
+           </td>
+            <td>
+              <b><%= t("activerecord.attributes.car.style", :default => t("activerecord.labels.style", :default => "Style")) %>:</b>
+              <%= @car.style %>
+            </td>
+            <td>
+               <b><%= t("activerecord.attributes.car.color", :default => t("activerecord.labels.color", :default => "Color")) %>:</b>
+               <%= @car.color %>
+            </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <br/><%= @car.description %>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <span class="details-header" style="width: 50%; margin-left: 25%; margin-right: 25%">Visit us if you are interested in purchasing!</span>
+      <div style="float: right">
+        <% if manager_signed_in? %>
+            <div class="wat-cf">
+              <%= link_to image_tag("web-app-theme/icons/application_edit.png", :alt => "#{t("web-app-theme.edit", :default=> "Edit")}") + " " + t("web-app-theme.edit", :default=> "Edit"), edit_car_path(@car), :class => "button" %>
+              <%= link_to image_tag("web-app-theme/icons/cross.png", :alt => "#{t("web-app-theme.delete", :default=> "Delete")}") + " " + t("web-app-theme.delete", :default => "Delete"), car_path(@car), :method => "delete", :class => "button", :confirm => "#{t("web-app-theme.confirm", :default => "Are you sure?")}" %>
+            </div>
+        <% end %>
+      </div>
+
+
+
     </div>
   </div>
 </div>

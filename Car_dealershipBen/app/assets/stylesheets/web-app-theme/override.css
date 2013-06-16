@@ -1,5 +1,9 @@
 /* Override here any style defined by web-app-theme */
 
+body{
+    font-family: Palatino Linotype;
+}
+
 #container {
     width: 960px;
     text-align: center;
@@ -15,11 +19,11 @@
 
 #header {
     background-color: #28485e;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 #header h1{
-    font-family: Arial;
+    font-family: Palatino Linotype;
 }
 
 #main-navigation div ul li {
@@ -43,21 +47,31 @@
 }
 
 #admin_control{
-    padding: 20px;
+    padding: 10px;
     position: fixed;
     background-color: #333333;
-    width:70px;
+    width:90px;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-top: 10px;
 
 }
+
 #admin_control a {
     color: white;
+    text-decoration: none;
 }
 
 #admin_control ul {
     list-style: none;
+
+}
+
+#admin_control li{
+    padding: 4px;
+}
+#admin_control li:hover{
+    background-color: #28485e;
 }
 
 .location-details{
@@ -87,10 +101,40 @@
 .global li{
     display: inline-block;
     padding: 5px;
-    font-family: Arial;
     font-size: 15px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.global li:hover {
+    background-color: #a4a4a4;
+}
+.global li a{
+    text-decoration: none;
 }
 
 .colorfy{
     background-color: #f8f8f8;
+}
+
+.details-header{
+    font: bold 20px;
+}
+
+#right-details td{
+    padding: 5px;
+}
+
+.odd{
+    background-color: #e5e5e5;
+}
+
+.odd:hover{
+    border-style: ridge;
+    border-color: #28485e;
+    border-width: 5px;
+}
+.even2:hover{
+    border-style: ridge;
+    border-color: #28485e;
+    border-width: 5px;
 }

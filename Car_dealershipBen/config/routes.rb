@@ -7,6 +7,7 @@ CarDealership::Application.routes.draw do
 
   match 'cars/search' => 'cars#search'
   match 'location' => 'cars#location'
+  match 'cars/browse' => 'cars#browse'
 
 
   resources :cars

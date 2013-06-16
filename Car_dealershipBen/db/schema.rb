@@ -11,21 +11,20 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130611224952) do
+ActiveRecord::Schema.define(:version => 20130615193743) do
 
-  create_table "cars", :force => true do |t|
-    t.string   "make"
-    t.string   "model"
-    t.integer  "year"
-    t.integer  "miles"
-    t.string   "style"
-    t.text     "description"
-    t.string   "color"
-    t.integer  "vin"
-    t.decimal  "price"
+  create_table "admins", :force => true do |t|
+    t.string   "first_name"
+    t.string   "last_name"
+    t.integer  "employee_ID"
+    t.string   "email"
+    t.string   "password"
     t.datetime "created_at",  :null => false
     t.datetime "updated_at",  :null => false
   end
+
+# Could not dump table "cars" because of following StandardError
+#   Unknown type 'stirng' for column 'image_url'
 
   create_table "managers", :force => true do |t|
     t.string   "email",                  :default => "", :null => false

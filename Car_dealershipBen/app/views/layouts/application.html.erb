@@ -11,9 +11,14 @@
 
 <% if manager_signed_in? %>
    <div id="admin_control">
-    <ul>
+     <span style="color: white;"><b>Manager Control</b></span>
+     <ul>
      <li><%= link_to "Register", :manager_registration %></li>
      <li><%= link_to "Edit Profile", :edit_manager_registration %></li>
+      <br/>
+      <li><%= link_to "List All Cars", :cars, :method => :get%></li>
+      <li><%= link_to "#{t("web-app-theme.new", :default => "Add a Car")}", new_car_path %></li>
+      <br/>
      <li><%= link_to "Log out", destroy_manager_session_path,  :method => :delete %></li>
     </ul>
    </div>
@@ -49,13 +54,15 @@
       </ul>
     </div>
   </div>
+
   <div id="global-nav" class="global">
        <ul class="wat-cf">
          <li><a href="/">Home</a></li>
          <li><%= link_to "Location", :location %></li>
-         <li><%= link_to "Browse", :cars, :method => :get%></li>
+         <li><%= link_to "Browse", :cars_browse, :method => :get%></li>
        </ul>
   </div>
+
   <div id="wrapper" class="wat-cf">
     <div class="flash">
       <% flash.each do |type, message| -%>
