@@ -1,0 +1,49 @@
+Use Case:1
+Name: Search by Details
+Actor: Potential Customer
+Description: The Potential Customer can search for cars in stock by specifying color, year, make, model, maximum number of miles, style, and price range.
+	Precondition: Potential Customer has navigated to the dealerships website.
+	Trigger: Potential Customer clicks the “Advanced Search” link
+Steps: Potential Customer enters keywords in the filter box they want to search by then clicks the search button.
+	Exceptions: Search does not return any results, displays a no items found message.  
+		       Customer does not enter any keywords, returns customer to browse page.
+		       Customer enters an invalid price range.
+	Postcondition: Potential Customer lands on a page with a list of cars based on keywords provided.  
+
+Use case 2:
+	Name: Add Inventory
+	Actor: Dealer
+	Description: The dealer can add a new car to his inventory along with the characteristics of that car.
+Precondition: Dealer has already navigated to the dealership website and logged in.
+Trigger: Dealer clicks the Add New Car link. 
+Steps: Dealer presses the add new car link and fills out the characteristics of the car: make, model, year, miles, style, description, color, vehicle identification number, and price. Then clicks the submit button.
+Exceptions: Dealer neglects to add a value for a field, the dealer will be prompted to enter a value.
+         Dealer  enters invalid value for a field, the dealer will be prompted to correct the value.  
+        A car with the same vehicle identification number is already included in the inventory.  
+Post condition: The car is added to the inventory and the dealer is presented with a confirmation.  
+
+Use Case 3:
+Name: Remove Inventory
+Actor: Dealer
+Description: 
+The dealer can remove a car from his inventory, with the characteristics of that car. 
+Precondition: Dealer has already navigated to the dealership website and logged in. 
+Trigger: Dealer presses the remove car button. 
+Steps: Dealer navigated to cars’ inventory page. click on, display all car button. Then selects one or more cars, which he want to remove. Then press the remove button to remove, selected cars. 
+Exceptions: Specific car dealer wants to remove, is not displayed. 
+	        Dealer does not select any car from inventory and pressed the remove button. 
+Post condition:
+ 		A message with successfully selected cars are removed is displayed on screen.
+
+User Case 4:
+Name: Add Admin
+Actor: Dealer
+Description: A Dealer can add another user as an Admin of the website.
+Precondition: Dealer has already navigated to the dealership website and logged in. 
+Trigger: Dealer clicks the “Add Admin” link.
+Steps:  Dealer clicks the Add Admin link and is presented with a form.  The Dealer fills in the new Admins Email, Password, and the Password a second time.  Then the Dealer clicks Submit.  
+Exceptions: The second password does not match the first password.
+		Email is already registered on the website.  
+		The dealer neglects to fill in a field.
+		Value for Email is not a properly formatted email address. 
+Post condition: The Dealer is presented with a confirmation message and the new user will be able to log in.
