@@ -14,7 +14,10 @@ gem 'web-app-theme'
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
   gem 'coffee-rails', '~> 3.2.1'
+  gem 'devise'
   gem 'sprockets'
+  gem 'mini_magick'
+  gem 'carrierwave'
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer', :platforms => :ruby
 

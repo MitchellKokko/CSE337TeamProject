@@ -2,19 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b35b96-ac8c-48ab-8b47-39123651a580" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\db\migrate\20130611234311_create_cars.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\tmp\pids\server.pid" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\db\development.sqlite3" afterPath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\db\development.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D10/FB0/sprockets%2F15572ef1ee46ff0e58ad61f09a417262" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D10/FB0/sprockets%2F15572ef1ee46ff0e58ad61f09a417262" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/E04/890/sprockets%2F2f5173deea6c795b8fdde723bb4b63af" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/E04/890/sprockets%2F2f5173deea6c795b8fdde723bb4b63af" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D83/590/sprockets%2F3ba5510de2cfaa06dc207da1d76008d7" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D83/590/sprockets%2F3ba5510de2cfaa06dc207da1d76008d7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/C44/700/sprockets%2F744141616c42ff9a8a3d1905d0907301" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/C44/700/sprockets%2F744141616c42ff9a8a3d1905d0907301" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D52/ED0/sprockets%2F7d4cc173f38eb1746547ac686f80ffd6" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D52/ED0/sprockets%2F7d4cc173f38eb1746547ac686f80ffd6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/E95/DC0/sprockets%2F7f2f99b25afac7fbe91a83f0cebcbcd8" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/E95/DC0/sprockets%2F7f2f99b25afac7fbe91a83f0cebcbcd8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/E2C/CE0/sprockets%2Fa7e31eddd4d7a4a66605dd8fcec26fc0" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/E2C/CE0/sprockets%2Fa7e31eddd4d7a4a66605dd8fcec26fc0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/DB2/4D0/sprockets%2Fc2157e362f9376dedd995aefc4a6d5b8" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/DB2/4D0/sprockets%2Fc2157e362f9376dedd995aefc4a6d5b8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D19/CC0/sprockets%2Fcc28b9e407f8874350b37683f2f2a3bf" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D19/CC0/sprockets%2Fcc28b9e407f8874350b37683f2f2a3bf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D69/700/sprockets%2Fd0aa372bb19119e0d88570e3f2de47fc" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D69/700/sprockets%2Fd0aa372bb19119e0d88570e3f2de47fc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/E73/210/sprockets%2Fd10ebc8cceeda2a6d103ca8db82d0fa3" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/E73/210/sprockets%2Fd10ebc8cceeda2a6d103ca8db82d0fa3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/C9B/6D0/sprockets%2Fe6de00250332df3248e392b510d90e04" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/C9B/6D0/sprockets%2Fe6de00250332df3248e392b510d90e04" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/C5C/BA0/sprockets%2Fe97992f1040b2aa956168498b5e56142" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/C5C/BA0/sprockets%2Fe97992f1040b2aa956168498b5e56142" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/.idea/.generators" afterPath="$PROJECT_DIR$/../Car_dealershipBen/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/../Car_dealershipBen/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Car_Dealership.iml" afterPath="$PROJECT_DIR$/.idea/Car_Dealership.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/.idea/Car_dealershipBen.iml" afterPath="$PROJECT_DIR$/../Car_dealershipBen/.idea/Car_dealershipBen.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/Gemfile.lock" afterPath="$PROJECT_DIR$/../Car_dealershipBen/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/Gemfile" afterPath="$PROJECT_DIR$/../Car_dealershipBen/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/app/views/cars/_form.html.erb" afterPath="$PROJECT_DIR$/../Car_dealershipBen/app/views/cars/_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/cars/_sidebar.html.erb" afterPath="$PROJECT_DIR$/app/views/cars/_sidebar.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/app/models/car.rb" afterPath="$PROJECT_DIR$/../Car_dealershipBen/app/models/car.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/../Car_dealershipBen/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/log/development.log" afterPath="$PROJECT_DIR$/../Car_dealershipBen/log/development.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/app/views/cars/index.html.erb" afterPath="$PROJECT_DIR$/../Car_dealershipBen/app/views/cars/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/app/models/manager.rb" afterPath="$PROJECT_DIR$/../Car_dealershipBen/app/models/manager.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Car_dealershipBen/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/db/schema.rb" afterPath="$PROJECT_DIR$/../Car_dealershipBen/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/cars/show.html.erb" afterPath="$PROJECT_DIR$/app/views/cars/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/app/views/cars/show.html.erb" afterPath="$PROJECT_DIR$/../Car_dealershipBen/app/views/cars/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D4E/1B0/sprockets%2Ff7cbd26ba1d28d48de824f0e94586655" afterPath="$PROJECT_DIR$/../Car_dealershipBen/tmp/cache/assets/D4E/1B0/sprockets%2Ff7cbd26ba1d28d48de824f0e94586655" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Car_dealershipBen/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Car_dealershipBen/.idea/workspace.xml" />
     </list>
     <ignored path="Car_Dealership.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371011880019" ignored="false" />
+    <file path="/Dummy.txt" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371325045664" ignored="false" />
     <file path="/routes.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371009762971" ignored="false" />
     <file path="/20130609220727_create_cars.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1370993932224" ignored="false" />
-    <file path="/car.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1370992757058" ignored="false" />
+    <file path="/car.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371327469095" ignored="false" />
     <file path="/schema.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1370816284582" ignored="false" />
-    <file path="/show.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1370994947520" ignored="false" />
-    <file path="/index.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371011326145" ignored="false" />
-    <file path="/_form.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1370819286180" ignored="false" />
-    <file path="/Gemfile" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371005067187" ignored="false" />
+    <file path="/show.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371326896987" ignored="false" />
+    <file path="/index.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371326497000" ignored="false" />
+    <file path="/_form.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371326954042" ignored="false" />
+    <file path="/Gemfile" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371323024040" ignored="false" />
     <file path="/app_name=car_dealership.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1370817150024" ignored="false" />
     <file path="/application.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371005711321" ignored="false" />
     <file path="/_sidebar.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1370819469160" ignored="false" />
@@ -28,6 +71,17 @@
     <file path="/_condition_fields.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371011821361" ignored="false" />
     <file path="/application_helper.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371008668980" ignored="false" />
     <file path="/cars.js.coffee" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371009426542" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/KVDi/app/views/layouts/application.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371076570684" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/KVDi/app/views/devise/sessions/new.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371077089950" ignored="false" />
+    <file path="/new.html.erb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371077081867" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/KVDi/app/controllers/products_controller.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371076906745" ignored="false" />
+    <file path="/products_controller.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371076904631" ignored="false" />
+    <file path="$PROJECT_DIR$/../Car_dealershipBen/db/migrate/20130615193743_add_image_url.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371327007617" ignored="false" />
+    <file path="/20130615193743_add_image_url.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371327002479" ignored="false" />
+    <file path="dbtable:/71761b6b/01fe8983-86b5-46ba-bd5b-4dfa0393c012/..cars" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371325354334" ignored="false" />
+    <file path="/manager.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371327406449" ignored="false" />
+    <file path="$PROJECT_DIR$/../Car_dealershipBen/app/uploaders/image_url_uploader.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371325816047" ignored="false" />
+    <file path="/image_url_uploader.rb" changelist="79b35b96-ac8c-48ab-8b47-39123651a580" time="1371325792296" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +106,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/cars/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="4" selection-start="33" selection-end="136" vertical-scroll-proportion="-1.9615384">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/cars/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="746" selection-end="746" vertical-scroll-proportion="-9.807693">
+            <state line="33" column="0" selection-start="1362" selection-end="1362" vertical-scroll-proportion="-16.73077">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/cars/edit.html.erb">
+      <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_condition_fields.html.erb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/cars/_condition_fields.html.erb">
+      <file leaf-file-name="cars_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/cars_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="40" selection-start="97" selection-end="97" vertical-scroll-proportion="0.16398714">
+            <state line="19" column="30" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="car.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/car.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="393" selection-end="413" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,15 +183,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/models/car.rb" />
         <option value="dbtable:/7c4c2520/ecce4c54-644e-4c7c-8062-9ece0626ac19/..cars" />
         <option value="dbtable:/7c4c2520/ecce4c54-644e-4c7c-8062-9ece0626ac19/..Cars" />
         <option value="$PROJECT_DIR$/db/migrate/20130609220727_create_cars.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130611234311_create_cars.rb" />
-        <option value="$PROJECT_DIR$/app/views/cars/show.html.erb" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/cars/_condition_fields.html.erb.html" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/cars.js.coffee" />
         <option value="$PROJECT_DIR$/app/controllers/cars_controller.rb" />
@@ -118,6 +195,10 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/cars/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/cars/_condition_fields.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/cars/_sidebar.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/cars/show.html.erb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -129,10 +210,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="704" />
-    <option name="y" value="27" />
-    <option name="width" value="683" />
-    <option name="height" value="768" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -161,6 +242,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -176,20 +258,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Car_Dealership" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Car_Dealership" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Car_Dealership" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,6 +328,24 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car_Dealership" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car_Dealership" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -281,7 +367,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,7 +375,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
-    <property name="last_opened_file_path" value="$USER_HOME$/RubymineProjects/KVDi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
@@ -596,7 +681,7 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs>
         <env name="RAILS_ENV" value="development" />
-        <env name="VERSION" value="20130611234311" />
+        <env name="VERSION" value="20130612220909" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" />
@@ -667,24 +752,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="704" y="27" width="683" height="768" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32704404" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23671497" sideWeight="0.6273585" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23636363" sideWeight="0.61809814" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29951692" sideWeight="0.626183" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17424242" sideWeight="0.6214511" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36453202" sideWeight="0.4589372" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3726415" sideWeight="0.52979064" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3785489" sideWeight="0.52979064" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32704404" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -745,83 +830,24 @@
     <MESSAGE value="Sort function added, but removing conditions doesn't work." />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/cars/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="5" selection-start="385" selection-end="385" vertical-scroll-proportion="0.65068495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cars/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.44548288">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/admins/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="48" selection-start="963" selection-end="963" vertical-scroll-proportion="0.0529595" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cars/_sidebar.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/7c4c2520/ecce4c54-644e-4c7c-8062-9ece0626ac19/..cars">
-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="0" column="247" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="49" selection-start="3183" selection-end="3183" vertical-scroll-proportion="0.398773">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="42" selection-start="305" selection-end="305" vertical-scroll-proportion="0.2715655">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="376" selection-end="376" vertical-scroll-proportion="0.45132744">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cars.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="30" selection-start="613" selection-end="613" vertical-scroll-proportion="0.33693695">
-          <folding />
-        </state>
+        <state line="11" column="30" selection-start="613" selection-end="613" vertical-scroll-proportion="0.33693695" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="86" selection-start="356" selection-end="356" vertical-scroll-proportion="0.21441442">
-          <folding />
-        </state>
+        <state line="7" column="86" selection-start="356" selection-end="356" vertical-scroll-proportion="0.21441442" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="33" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.76884425">
-          <folding />
-        </state>
+        <state line="27" column="33" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.76884425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
@@ -831,30 +857,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/cars_controller.rb">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20130612220909_devise_create_users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="48" selection-start="202" selection-end="202" vertical-scroll-proportion="0.17085427">
-          <folding />
-        </state>
+        <state line="1" column="12" selection-start="62" selection-end="62" vertical-scroll-proportion="0.073275864" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cars/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="746" selection-end="746" vertical-scroll-proportion="-9.807693">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/cars/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/cars/_condition_fields.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="40" selection-start="97" selection-end="97" vertical-scroll-proportion="0.16398714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="-7.1923075" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/cars/_sidebar.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="9" selection-start="196" selection-end="196" vertical-scroll-proportion="0.37777779">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="393" selection-end="413" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/cars_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="30" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/car.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cars/_condition_fields.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/cars/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="40" selection-start="97" selection-end="97" vertical-scroll-proportion="0.16398714">
+        <state line="3" column="4" selection-start="33" selection-end="136" vertical-scroll-proportion="-1.9615384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/cars/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1362" selection-end="1362" vertical-scroll-proportion="-16.73077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

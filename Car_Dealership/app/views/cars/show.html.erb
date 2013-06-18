@@ -1,5 +1,11 @@
 <p id="notice"><%= notice %></p>
-
+<div style="float:left;  width: 40%;">
+<p>
+  <b>Img url:</b>
+  <%=image_tag @car.img_url %>
+</p>
+</div>
+<div style="float:right; width:60%;">
 <p>
   <b>Id:</b>
   <%= @car.id %>
@@ -35,10 +41,7 @@
   <%= @car.description %>
 </p>
 
-<p>
-  <b>Img url:</b>
-  <%=image_tag @car.img_url %>
-</p>
+
 
 <p>
   <b>Color:</b>
@@ -52,9 +55,9 @@
 
 <p>
   <b>Price:</b>
-  <%= @car.price %>
+  <%= number_to_currency(@car.price) %>
 </p>
 
-
+</div>
 <%= link_to 'Edit', edit_car_path(@car) %> |
 <%= link_to 'Back', cars_path %>
