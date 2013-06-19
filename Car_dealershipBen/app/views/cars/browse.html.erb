@@ -15,7 +15,7 @@
                 <%= link_to image_tag(car.image_url, :width => '150'), car_path(car) %>
               </td>
               <td>
-                <span style="font-size: 15px;"><a href="<%= car_path(car) %>"><%= car.year %><br/><%= car.make %> <%= car.model %></a></span>
+                <span style="font-size: 15px;"><a href="<%= car_path(car) %>"><%= car.year %><br/><%= Manufacturer.find(car.make).name %> <%= car.model %></a></span>
               </td>
               <td>
                 <%= number_with_delimiter car.miles %> miles

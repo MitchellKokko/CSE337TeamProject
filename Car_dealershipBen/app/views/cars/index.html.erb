@@ -11,6 +11,7 @@
   <div class="content">          
     <h2 class="title"><%= t("web-app-theme.all", :default => "All")  %> Cars</h2>
     <div class="inner">
+
       <table class="table">
         <tr>             
           <th class="first">ID</th>
@@ -30,7 +31,7 @@
             <%= image_tag car.image_url, :height => "200" %>
           </td>
                     <td>
-            <%= link_to car.make, car_path(car) %>
+            <%= link_to car.year.to_s + " " + Manufacturer.find(car.make).name + " " + car.model, car_path(car) %>
           </td>
                     <td>
             <%= car.created_at %>

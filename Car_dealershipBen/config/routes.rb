@@ -1,9 +1,15 @@
 CarDealership::Application.routes.draw do
+  resources :car_images
+
+
+  resources :manufacturers
+
+
   devise_for :managers do
     get "/admin" =>  "devise/sessions#new"
+    get "/admin/add" =>  "devise#register_other"
   end
-
-
+  resources :managers
 
   match 'cars/search' => 'cars#search'
   match 'location' => 'cars#location'

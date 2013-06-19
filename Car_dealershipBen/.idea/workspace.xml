@@ -2,178 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46c4a22f-57de-4656-b0f1-628262827652" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\.idea\.rakeTasks" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\Features.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\Building.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\Building.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\audi-900.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\cars\img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\cars\img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\plastic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\rails.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\web-app-theme\avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\web-app-theme\icons\application_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\web-app-theme\icons\cross.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\web-app-theme\icons\key.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\images\web-app-theme\icons\tick.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\javascripts\admins.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\javascripts\application.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\javascripts\car.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\javascripts\cars.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\admins.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\application.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\car.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\cars.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\scaffolds.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\base.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museo700-regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museo700-regular-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museo700-regular-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museo700-regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museosans_500-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museosans_500-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museosans_500-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museosans_500-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museosans_500_italic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museosans_500_italic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museosans_500_italic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\fonts\museosans_500_italic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\images\arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\images\bgd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\images\boxbar-background.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\images\button-background-active.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\images\button-background.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\images\messages\error.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\images\messages\notice.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\images\messages\warning.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\assets\stylesheets\web-app-theme\themes\default\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\controllers\admins_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\controllers\application_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\controllers\cars_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\helpers\admins_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\helpers\application_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\helpers\car_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\helpers\cars_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\mailers\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\models\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\models\admin.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\admins\_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\admins\_sidebar.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\admins\edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\admins\index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\admins\new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\admins\show.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\cars\_condition_fields.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\cars\_sidebar.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\cars\edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\cars\location.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\cars\new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\cars\search.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\confirmations\new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\mailer\confirmation_instructions.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\mailer\reset_password_instructions.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\mailer\unlock_instructions.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\passwords\edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\passwords\new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\registrations\edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\registrations\new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\sessions\new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\shared\_links.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\devise\unlocks\new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\app\views\layouts\app_name=car_dealership.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config.ru" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\application.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\boot.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\database.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\environment.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\environments\development.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\environments\production.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\environments\test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\initializers\backtrace_silencers.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\initializers\devise.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\initializers\inflections.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\initializers\mime_types.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\initializers\secret_token.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\initializers\session_store.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\initializers\wrap_parameters.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\locales\devise.en.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\config\locales\en.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\db\migrate\20130609220727_create_cars.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\db\migrate\20130609225409_create_admins.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\db\migrate\20130611224952_devise_create_managers.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\db\production.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\db\seeds.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\doc\README_FOR_APP" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\lib\assets\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\lib\tasks\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\log\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\log\production.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\public\404.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\public\422.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\public\500.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\public\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\public\robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\script\rails" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\sqlite-jdbc-3.7.15-SNAPSHOT-2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\sqlite-jdbc-3.7.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\fixtures\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\fixtures\admins.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\fixtures\cars.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\fixtures\managers.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\functional\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\functional\admins_controller_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\functional\car_controller_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\functional\cars_controller_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\integration\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\performance\browsing_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\test_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\unit\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\unit\admin_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\unit\car_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\unit\helpers\admins_helper_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\unit\helpers\car_helper_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\unit\helpers\cars_helper_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\test\unit\manager_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\vendor\assets\javascripts\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\vendor\assets\stylesheets\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\vendor\plugins\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Archana\Documents\GitHub\CSE337TeamProject\Car_dealershipBen\xerial-sqlite-license.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/../Car_Dealership/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/.idea/.generators" afterPath="$PROJECT_DIR$/../Car_Dealership/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/.idea/Car_Dealership.iml" afterPath="$PROJECT_DIR$/../Car_Dealership/.idea/Car_Dealership.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Car_dealershipBen.iml" afterPath="$PROJECT_DIR$/.idea/Car_dealershipBen.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/Gemfile.lock" afterPath="$PROJECT_DIR$/../Car_Dealership/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/Gemfile" afterPath="$PROJECT_DIR$/../Car_Dealership/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/app/views/cars/_sidebar.html.erb" afterPath="$PROJECT_DIR$/../Car_Dealership/app/views/cars/_sidebar.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/../Car_Dealership/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/../Car_Dealership/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/cars/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/cars/_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/cars/browse.html.erb" afterPath="$PROJECT_DIR$/app/views/cars/browse.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/car.rb" afterPath="$PROJECT_DIR$/app/models/car.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/cars/index.html.erb" afterPath="$PROJECT_DIR$/app/views/cars/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/db/schema.rb" afterPath="$PROJECT_DIR$/../Car_Dealership/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/app/views/cars/show.html.erb" afterPath="$PROJECT_DIR$/../Car_Dealership/app/views/cars/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_Dealership/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Car_Dealership/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/cars/show.html.erb" afterPath="$PROJECT_DIR$/app/views/cars/show.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car_dealershipBen_changed/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Car_dealershipBen_changed/.idea/workspace.xml" />
     </list>
     <ignored path="Car_dealershipBen.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/new.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371322455068" ignored="false" />
-    <file path="/Dummy.txt" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371436014676" ignored="false" />
-    <file path="/Gemfile" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371324279845" ignored="false" />
+    <file path="/new.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371587992759" ignored="false" />
+    <file path="/Dummy.txt" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371611237231" ignored="false" />
+    <file path="/Gemfile" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371584365368" ignored="false" />
     <file path="/20130615193743_add_image_url.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371327002480" ignored="false" />
     <file path="/manager.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371327406249" ignored="false" />
-    <file path="/_form.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371326954041" ignored="false" />
+    <file path="/_form.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371593881258" ignored="false" />
     <file path="/image_url_uploader.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371325792296" ignored="false" />
-    <file path="/index.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371328122515" ignored="false" />
-    <file path="/show.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371349359801" ignored="false" />
-    <file path="/car.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371327469094" ignored="false" />
+    <file path="/index.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371610316802" ignored="false" />
+    <file path="/show.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371604245294" ignored="false" />
+    <file path="/car.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371591535129" ignored="false" />
     <file path="/override.css" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371351229874" ignored="false" />
-    <file path="/application.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371349055868" ignored="false" />
+    <file path="/application.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371593928710" ignored="false" />
     <file path="/home.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371342723678" ignored="false" />
     <file path="/browse.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371350784602" ignored="false" />
-    <file path="/routes.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371345553547" ignored="false" />
+    <file path="/routes.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371587546280" ignored="false" />
+    <file path="/search.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371578521150" ignored="false" />
+    <file path="/seeds.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371588992928" ignored="false" />
+    <file path="/reg_other.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371581867286" ignored="false" />
+    <file path="/registrations_controller.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371581029224" ignored="false" />
+    <file path="/reg_confirm.html" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371581185658" ignored="false" />
+    <file path="/register_other.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371583194567" ignored="false" />
+    <file path="/environment.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371584734150" ignored="false" />
+    <file path="/ability.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371585583638" ignored="false" />
+    <file path="/register_manager.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371586129919" ignored="false" />
+    <file path="/reg_confirm.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371585970866" ignored="false" />
+    <file path="/cars_controller.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371586983624" ignored="false" />
+    <file path="/edit.html.erb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371587326670" ignored="false" />
+    <file path="/managers_controller.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371587863111" ignored="false" />
+    <file path="/manufacturer.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371588671207" ignored="false" />
+    <file path="/20130609220727_create_cars.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371588747469" ignored="false" />
+    <file path="/car_image.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371591518951" ignored="false" />
+    <file path="/car_images_controller.rb" changelist="46c4a22f-57de-4656-b0f1-628262827652" time="1371609136890" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,10 +79,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="image_url_uploader.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/uploaders/image_url_uploader.rb">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/manufacturers/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="6" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+            <state line="26" column="6" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/cars/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="95" selection-start="3345" selection-end="3345" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/cars/search.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="134" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seeds.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cars_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/cars_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="32" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/cars/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/cars/_form.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="4" selection-start="254" selection-end="362" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -210,25 +145,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="62" selection-start="508" selection-end="508" vertical-scroll-proportion="0.04404145">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="browse.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/cars/browse.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="141" selection-start="669" selection-end="669" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="override.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/web-app-theme/override.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="11" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+            <state line="60" column="49" selection-start="2502" selection-end="2592" vertical-scroll-proportion="0.14028777">
               <folding />
             </state>
           </provider>
@@ -256,22 +173,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/devise/passwords/new.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="dbtable:/71761b6b/01fe8983-86b5-46ba-bd5b-4dfa0393c012/..cars" />
-        <option value="$PROJECT_DIR$/db/migrate/20130615193743_add_image_url.rb" />
-        <option value="$PROJECT_DIR$/app/models/manager.rb" />
-        <option value="$PROJECT_DIR$/app/models/car.rb" />
-        <option value="$PROJECT_DIR$/app/uploaders/image_url_uploader.rb" />
-        <option value="$PROJECT_DIR$/app/views/cars/_form.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/cars/home.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/cars/index.html.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/cars/show.html.erb" />
+        <option value="$PROJECT_DIR$/db/migrate/20130609220727_create_cars.rb" />
+        <option value="$PROJECT_DIR$/db/seeds.rb" />
+        <option value="dbtable:/f1df828f/f5737031-1e54-4ddf-bec7-932d911b9d6e/..manufacturers" />
         <option value="$PROJECT_DIR$/app/views/cars/browse.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/web-app-theme/override.css" />
+        <option value="$PROJECT_DIR$/app/models/car.rb" />
+        <option value="$PROJECT_DIR$/app/models/car_image.rb" />
+        <option value="$PROJECT_DIR$/app/views/manufacturers/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/manufacturers/_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/car_images/_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/cars/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/cars/search.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/cars/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/cars/_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/car_images/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/car_images_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -283,10 +200,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-2" />
+    <option name="width" value="1924" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -314,7 +230,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -333,8 +248,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car_dealershipBen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car_dealershipBen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -351,7 +281,12 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Rake.routes">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/devise/registrations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Rails.Development: Car_dealershipBen">
     <configuration default="false" name="routes" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
       <module name="Car_dealershipBen" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -387,7 +322,7 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs>
         <env name="RAILS_ENV" value="development" />
-        <env name="VERSION" value="20130615193743" />
+        <env name="VERSION" value="20130618213747" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" />
@@ -426,6 +361,32 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:drop" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="db:seed" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
+      <module name="Car_dealershipBen" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:seed" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
@@ -515,6 +476,26 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="" />
@@ -581,6 +562,13 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
@@ -695,7 +683,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <list size="7">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Rake.test" />
       <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
       <item index="2" class="java.lang.String" itemvalue="Rails.Production: Car_dealershipBen" />
@@ -703,17 +691,19 @@
       <item index="4" class="java.lang.String" itemvalue="Rake.routes" />
       <item index="5" class="java.lang.String" itemvalue="Rake.db:migrate" />
       <item index="6" class="java.lang.String" itemvalue="Rake.db:drop" />
+      <item index="7" class="java.lang.String" itemvalue="Rake.db:seed" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Rake.routes" />
-        <item index="1" class="java.lang.String" itemvalue="Rake.db:migrate" />
-        <item index="2" class="java.lang.String" itemvalue="Rake.db:drop" />
+        <item index="1" class="java.lang.String" itemvalue="Rake.db:seed" />
+        <item index="2" class="java.lang.String" itemvalue="Rake.db:migrate" />
+        <item index="3" class="java.lang.String" itemvalue="Rake.db:drop" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -723,7 +713,6 @@
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
     <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
     <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
     <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
@@ -740,18 +729,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+    <frame x="-2" y="0" width="1924" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32651514" sideWeight="0.67230767" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12966916" sideWeight="0.67416936" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17651515" sideWeight="0.6738461" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24332978" sideWeight="0.67416936" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32760474" sideWeight="0.17716116" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32615384" sideWeight="0.8223052" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32583067" sideWeight="0.17769477" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32583067" sideWeight="0.8223052" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -789,7 +778,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
@@ -799,6 +788,10 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -812,6 +805,7 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
@@ -819,83 +813,108 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/uploaders/image_url_uploader.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/cars_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+        <state line="37" column="32" selection-start="771" selection-end="772" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/cars/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/cars/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="254" selection-end="420" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="62" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cars/browse.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="141" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/web-app-theme/override.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+        <state line="54" column="49" selection-start="1990" selection-end="2080" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/car.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="263" selection-end="263" vertical-scroll-proportion="0.10016695" />
+        <state line="4" column="27" selection-start="238" selection-end="263" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cars/home.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/manufacturers/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/manufacturers/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="14" selection-start="211" selection-end="211" vertical-scroll-proportion="0.22537562" />
+        <state line="26" column="6" selection-start="650" selection-end="650" vertical-scroll-proportion="0.7027027" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cars/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="34" selection-start="970" selection-end="970" vertical-scroll-proportion="0.6" />
+        <state line="27" column="41" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/cars/search.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="134" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/cars/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="98" selection-start="180" selection-end="180" vertical-scroll-proportion="-0.13345195" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/web-app-theme/override.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+        <state line="77" column="95" selection-start="3345" selection-end="3345" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cars/browse.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/manufacturers/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="141" selection-start="669" selection-end="669" vertical-scroll-proportion="-0.65384614">
+        <state line="26" column="6" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/uploaders/image_url_uploader.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/cars_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+        <state line="38" column="32" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/cars/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="254" selection-end="362" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/cars/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="62" selection-start="508" selection-end="508" vertical-scroll-proportion="0.04404145">
+        <state line="60" column="49" selection-start="2502" selection-end="2592" vertical-scroll-proportion="0.14028777">
           <folding />
         </state>
       </provider>

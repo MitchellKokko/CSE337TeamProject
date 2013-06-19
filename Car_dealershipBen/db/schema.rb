@@ -11,20 +11,29 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130615193743) do
+ActiveRecord::Schema.define(:version => 20130618213747) do
 
-  create_table "admins", :force => true do |t|
-    t.string   "first_name"
-    t.string   "last_name"
-    t.integer  "employee_ID"
-    t.string   "email"
-    t.string   "password"
-    t.datetime "created_at",  :null => false
-    t.datetime "updated_at",  :null => false
+  create_table "car_images", :force => true do |t|
+    t.integer  "car_id"
+    t.string   "image_url"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
   end
 
-# Could not dump table "cars" because of following StandardError
-#   Unknown type 'stirng' for column 'image_url'
+  create_table "cars", :force => true do |t|
+    t.integer  "make"
+    t.string   "model"
+    t.integer  "year"
+    t.integer  "miles"
+    t.string   "style"
+    t.text     "description"
+    t.string   "color"
+    t.integer  "vin"
+    t.decimal  "price"
+    t.datetime "created_at",  :null => false
+    t.datetime "updated_at",  :null => false
+    t.string   "image_url"
+  end
 
   create_table "managers", :force => true do |t|
     t.string   "email",                  :default => "", :null => false
@@ -43,5 +52,12 @@ ActiveRecord::Schema.define(:version => 20130615193743) do
 
   add_index "managers", ["email"], :name => "index_managers_on_email", :unique => true
   add_index "managers", ["reset_password_token"], :name => "index_managers_on_reset_password_token", :unique => true
+
+  create_table "manufacturers", :force => true do |t|
+    t.string   "name"
+    t.string   "url"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
 
 end

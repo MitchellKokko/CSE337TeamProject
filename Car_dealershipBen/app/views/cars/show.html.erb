@@ -13,13 +13,24 @@
 
       <div id="left-details" style="width: 50%; height: 400px; float: left">
 
-        <%= link_to image_tag(@car.image_url, :width => '400'), image_path(@car.image_url), :target => '_blank' %>
+        <%= link_to image_tag(@car.image_url, :width => '400'), image_path(@car.image_url), :target => '_blank' %><br/>
+        <table>
+        <% CarImage.find_all_by_car_id(@car.id).each do |car_image| %>
+            <tr>
 
+              <td><%= link_to image_tag(car_image.image_url, :width => '100'), image_path(car_image.image_url), :target => '_blank' %></td>
+
+            </tr>
+        <% end %>
+        </table>
+        <% if manager_signed_in? %>
+            <%= link_to "add an additional image to a car", :new_car_image %>
+        <% end %>
       </div>
 
       <div id="right-details" style="width: 50%; height: 400px; float: right">
         <table>
-           <tr><td class="details-header"><%= @car.year %> <%= @car.make %> <%= @car.model %></td></tr>
+           <tr><td class="details-header"><%= @car.year %> <%= Manufacturer.find(@car.make).name %> <%= @car.model %></td></tr>
            <tr><td class="details-header"><%= number_to_currency @car.price %></td></tr>
           <tr>
             <td>
@@ -46,6 +57,12 @@
               <br/><%= @car.description %>
             </td>
           </tr>
+          <tr>
+            <td><a href="http://<%= Manufacturer.find(@car.make).url %>"><%=Manufacturer.find(@car.make).url.to_s %></a></td>
+          </tr>
+          <% if manager_signed_in? %>
+            <td><b>VIN:</b> <%= @car.vin %></td>
+          <% end %>
         </table>
       </div>
 

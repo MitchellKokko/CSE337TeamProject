@@ -1,0 +1,41 @@
+<div class="block">
+  <div class="secondary-navigation">
+    <ul class="wat-cf">
+      <li class="first active"><%= link_to "Browse", :cars_browse  %></li>
+
+    </ul>
+  </div>
+  <div class="content">
+    <h2 class="title">Browse Cars</h2>
+    <div class="inner">
+      <table class="table">
+        <% @results.each do |car| -%>
+            <tr class="<%= cycle("odd", "even2") %>">
+              <td>
+                <%= link_to image_tag(car.image_url, :width => '150'), car_path(car) %>
+              </td>
+              <td>
+                <span style="font-size: 15px;"><a href="<%= car_path(car) %>"><%= car.year %><br/><%= Manufacturer.find(car.make).name %> <%= car.model %></a></span>
+              </td>
+              <td>
+                <%= number_with_delimiter car.miles %> miles
+              </td>
+              <td>
+                <%= number_to_currency car.price %>
+              </td>
+              <td class="last">
+                <%= link_to "#{t("web-app-theme.show", :default => "More Details")}", car_path(car) %>
+              </td>
+            </tr>
+        <% end -%>
+      </table>
+      <div class="actions-bar wat-cf">
+        <div class="actions">
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<% content_for :sidebar, render(:partial => 'sidebar') -%>

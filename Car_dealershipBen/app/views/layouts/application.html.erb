@@ -13,11 +13,17 @@
    <div id="admin_control">
      <span style="color: white;"><b>Manager Control</b></span>
      <ul>
-     <li><%= link_to "Register", :manager_registration %></li>
+     <li><%= link_to "Add another manager", :new_manager_registration%></li>
      <li><%= link_to "Edit Profile", :edit_manager_registration %></li>
       <br/>
       <li><%= link_to "List All Cars", :cars, :method => :get%></li>
       <li><%= link_to "#{t("web-app-theme.new", :default => "Add a Car")}", new_car_path %></li>
+       <br/>
+       <li><%= link_to "#{t("web-app-theme.new", :default => "Add an additional Car image")}", new_car_image_path %></li>
+       <li><%= link_to "#{t("web-app-theme.new", :default => "View all additional Car images")}", car_images_path %></li>
+      <br/>
+       <li><%= link_to "#{t("web-app-theme.new", :default => "Add a manufacturer")}", new_manufacturer_path %></li>
+       <li><%= link_to "#{t("web-app-theme.new", :default => "View All Manufacturers")}", :manufacturers %></li>
       <br/>
      <li><%= link_to "Log out", destroy_manager_session_path,  :method => :delete %></li>
     </ul>

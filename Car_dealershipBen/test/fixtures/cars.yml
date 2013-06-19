@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  make: MyString
+  model: MyString
+  year: 1
+  miles: 1
+  style: MyString
+  description: MyText
+  color: MyString
+  string: MyString
+  vin: 1
+  price: 9.99
+
+two:
+  make: MyString
+  model: MyString
+  year: 1
+  miles: 1
+  style: MyString
+  description: MyText
+  color: MyString
+  string: MyString
+  vin: 1
+  price: 9.99
