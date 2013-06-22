@@ -1,0 +1,550 @@
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 12:39:42 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 12:41:01 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy" for 127.0.0.1 at 2013-06-22 12:41:01 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy"}
+Completed 500 Internal Server Error in 38ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 12:43:18 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 12:43:35 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 12:44:27 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy" for 127.0.0.1 at 2013-06-22 12:44:27 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy"}
+Completed 500 Internal Server Error in 40ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 12:51:24 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy" for 127.0.0.1 at 2013-06-22 12:51:24 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy"}
+Completed 500 Internal Server Error in 40ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 12:53:25 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy" for 127.0.0.1 at 2013-06-22 12:53:25 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy"}
+Completed 500 Internal Server Error in 38ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:07:57 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:09:03 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:29:16 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy" for 127.0.0.1 at 2013-06-22 13:29:16 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy"}
+Completed 500 Internal Server Error in 40ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:29:30 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:29:41 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:29:53 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:30:04 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:31:17 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy&Search=Search" for 127.0.0.1 at 2013-06-22 13:31:17 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy", "Search"=>"Search"}
+Completed 500 Internal Server Error in 40ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (109.9ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (82.9ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.1ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+Migrating to CreateCars (20130609220727)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.6ms)[0m  CREATE TABLE "cars" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "make" integer, "model" varchar(255), "year" integer, "miles" integer, "style" varchar(255), "description" text, "color" varchar(255), "vin" integer, "price" decimal, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20130609220727')[0m
+  [1m[35m (84.8ms)[0m  commit transaction
+Migrating to DeviseCreateManagers (20130611224952)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.7ms)[0m  CREATE TABLE "managers" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar(255) DEFAULT '' NOT NULL, "encrypted_password" varchar(255) DEFAULT '' NOT NULL, "reset_password_token" varchar(255), "reset_password_sent_at" datetime, "remember_created_at" datetime, "sign_in_count" integer DEFAULT 0, "current_sign_in_at" datetime, "last_sign_in_at" datetime, "current_sign_in_ip" varchar(255), "last_sign_in_ip" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.4ms)[0m  [1mCREATE UNIQUE INDEX "index_managers_on_email" ON "managers" ("email")[0m
+  [1m[35m (0.3ms)[0m  CREATE UNIQUE INDEX "index_managers_on_reset_password_token" ON "managers" ("reset_password_token")
+  [1m[36m (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20130611224952')[0m
+  [1m[35m (96.1ms)[0m  commit transaction
+Migrating to AddImageUrl (20130615193743)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.8ms)[0m  ALTER TABLE "cars" ADD "image_url" varchar(255)
+  [1m[36m (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20130615193743')[0m
+  [1m[35m (96.3ms)[0m  commit transaction
+Migrating to CreateManufacturers (20130618205028)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.9ms)[0m  CREATE TABLE "manufacturers" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "url" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.3ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20130618205028')[0m
+  [1m[35m (95.3ms)[0m  commit transaction
+Migrating to CreateCarImages (20130618213747)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.8ms)[0m  CREATE TABLE "car_images" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "car_id" integer, "image_url" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20130618213747')[0m
+  [1m[35m (86.1ms)[0m  commit transaction
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (7.8ms)[0m  [1mINSERT INTO "cars" ("color", "created_at", "description", "image_url", "make", "miles", "model", "price", "style", "updated_at", "vin", "year") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["color", "Black"], ["created_at", Sat, 22 Jun 2013 17:37:08 UTC +00:00], ["description", "A 96 F-150 automatic with cassette stereo am/fm radio and power windows and locks."], ["image_url", nil], ["make", 1], ["miles", 165584], ["model", "F-150"], ["price", #<BigDecimal:2fb71b8,'0.759999E4',18(18)>], ["style", "Truck"], ["updated_at", Sat, 22 Jun 2013 17:37:08 UTC +00:00], ["vin", 123549878756423156], ["year", 1996]]
+  [1m[35m (126.0ms)[0m  commit transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "cars" ("color", "created_at", "description", "image_url", "make", "miles", "model", "price", "style", "updated_at", "vin", "year") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)  [["color", "Red"], ["created_at", Sat, 22 Jun 2013 17:37:08 UTC +00:00], ["description", "05 Chevy Malibu"], ["image_url", nil], ["make", 3], ["miles", 84525], ["model", "Malibu"], ["price", #<BigDecimal:3032f98,'0.954999E4',18(18)>], ["style", "Sedan"], ["updated_at", Sat, 22 Jun 2013 17:37:08 UTC +00:00], ["vin", 246845132], ["year", 2005]]
+  [1m[36m (92.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "cars" ("color", "created_at", "description", "image_url", "make", "miles", "model", "price", "style", "updated_at", "vin", "year") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["color", "White"], ["created_at", Sat, 22 Jun 2013 17:37:08 UTC +00:00], ["description", "02 Honda CRV"], ["image_url", nil], ["make", 2], ["miles", 125235], ["model", "CRV"], ["price", #<BigDecimal:305dc70,'0.2E4',9(18)>], ["style", "Hatchback"], ["updated_at", Sat, 22 Jun 2013 17:37:08 UTC +00:00], ["vin", 6484513215], ["year", 2002]]
+  [1m[35m (103.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.8ms)[0m  INSERT INTO "cars" ("color", "created_at", "description", "image_url", "make", "miles", "model", "price", "style", "updated_at", "vin", "year") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)  [["color", "Black"], ["created_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["description", "'07 Chevy Silverado with new shocks and breaks "], ["image_url", nil], ["make", 3], ["miles", 55478], ["model", "Silverado"], ["price", #<BigDecimal:30746c8,'0.25E5',9(18)>], ["style", "Truck"], ["updated_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["vin", 5642312456798], ["year", 2007]]
+  [1m[36m (94.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "cars" ("color", "created_at", "description", "image_url", "make", "miles", "model", "price", "style", "updated_at", "vin", "year") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["color", "Red"], ["created_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["description", "A 97 Ford F-150 automatic with cassette stereo am/fm radio and power windows and locks."], ["image_url", nil], ["make", 1], ["miles", 165584], ["model", "F-150"], ["price", #<BigDecimal:30a3a18,'0.659999E4',18(18)>], ["style", "Truck"], ["updated_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["vin", 123549878756423156], ["year", 1997]]
+  [1m[35m (88.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "manufacturers" ("created_at", "name", "updated_at", "url") VALUES (?, ?, ?, ?)  [["created_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["name", "Ford"], ["updated_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["url", "www.ford.com"]]
+  [1m[36m (113.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "manufacturers" ("created_at", "name", "updated_at", "url") VALUES (?, ?, ?, ?)[0m  [["created_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["name", "Audi"], ["updated_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["url", "www.audi.com"]]
+  [1m[35m (111.4ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "manufacturers" ("created_at", "name", "updated_at", "url") VALUES (?, ?, ?, ?)  [["created_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["name", "Chevy"], ["updated_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["url", "www.chevy.com"]]
+  [1m[36m (104.9ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "manufacturers" ("created_at", "name", "updated_at", "url") VALUES (?, ?, ?, ?)[0m  [["created_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["name", "Chrysler"], ["updated_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["url", "www.chrysler.com"]]
+  [1m[35m (88.4ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mManager Exists (0.1ms)[0m  SELECT 1 AS one FROM "managers" WHERE "managers"."email" = 'admin@admin.admin' LIMIT 1
+Binary data inserted for `string` type on column `encrypted_password`
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "managers" ("created_at", "current_sign_in_at", "current_sign_in_ip", "email", "encrypted_password", "last_sign_in_at", "last_sign_in_ip", "remember_created_at", "reset_password_sent_at", "reset_password_token", "sign_in_count", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["current_sign_in_at", nil], ["current_sign_in_ip", nil], ["email", "admin@admin.admin"], ["encrypted_password", "$2a$04$c7NnvNKNHvBTsrQv23gXke/1PCgxhwDPCucfXNinm6oWJaIKNo6.W"], ["last_sign_in_at", nil], ["last_sign_in_ip", nil], ["remember_created_at", nil], ["reset_password_sent_at", nil], ["reset_password_token", nil], ["sign_in_count", 0], ["updated_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00]]
+  [1m[35m (136.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mManager Exists (0.1ms)[0m  SELECT 1 AS one FROM "managers" WHERE "managers"."email" = 'asdf@asdf.asdf' LIMIT 1
+Binary data inserted for `string` type on column `encrypted_password`
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "managers" ("created_at", "current_sign_in_at", "current_sign_in_ip", "email", "encrypted_password", "last_sign_in_at", "last_sign_in_ip", "remember_created_at", "reset_password_sent_at", "reset_password_token", "sign_in_count", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00], ["current_sign_in_at", nil], ["current_sign_in_ip", nil], ["email", "asdf@asdf.asdf"], ["encrypted_password", "$2a$04$Iln.rWxw/.BnpQgM1f2mAuABepAcJwBNCBj.jxQbCP/iemHiZTIka"], ["last_sign_in_at", nil], ["last_sign_in_ip", nil], ["remember_created_at", nil], ["reset_password_sent_at", nil], ["reset_password_token", nil], ["sign_in_count", 0], ["updated_at", Sat, 22 Jun 2013 17:37:09 UTC +00:00]]
+  [1m[35m (268.5ms)[0m  commit transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:39:35 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy&Search=Search" for 127.0.0.1 at 2013-06-22 13:39:35 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.6ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/search.html.erb within layouts/application (16.6ms)
+Completed 200 OK in 68ms (Views: 17.5ms | ActiveRecord: 2.6ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:40:19 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy&Search=Search" for 127.0.0.1 at 2013-06-22 13:40:19 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.6ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/search.html.erb within layouts/application (16.2ms)
+Completed 200 OK in 67ms (Views: 17.1ms | ActiveRecord: 2.5ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:40:37 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy&Search=Search" for 127.0.0.1 at 2013-06-22 13:40:37 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.6ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/search.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 66ms (Views: 17.0ms | ActiveRecord: 2.5ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:41:02 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy&Search=Search" for 127.0.0.1 at 2013-06-22 13:41:02 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.6ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/search.html.erb within layouts/application (16.3ms)
+Completed 200 OK in 67ms (Views: 17.3ms | ActiveRecord: 2.5ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/cars/browse" for 127.0.0.1 at 2013-06-22 13:41:32 -0400
+Processing by CarsController#browse as HTML
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.6ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mManufacturer Load (0.1ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mManufacturer Load (0.0ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered cars/_sidebar.html.erb (0.2ms)
+  Rendered cars/browse.html.erb within layouts/application (65.5ms)
+Completed 200 OK in 72ms (Views: 68.9ms | ActiveRecord: 2.5ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:43:55 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:44:54 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:47:43 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy&Search=Search" for 127.0.0.1 at 2013-06-22 13:47:43 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.6ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/search.html.erb within layouts/application (16.2ms)
+Completed 200 OK in 67ms (Views: 17.1ms | ActiveRecord: 2.5ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:48:22 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy&Search=Search" for 127.0.0.1 at 2013-06-22 13:48:22 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.5ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered cars/_sidebar.html.erb (0.2ms)
+  Rendered cars/search.html.erb within layouts/application (16.6ms)
+Completed 200 OK in 68ms (Views: 17.4ms | ActiveRecord: 2.5ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:48:34 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Chevy&Search=Search" for 127.0.0.1 at 2013-06-22 13:48:34 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Chevy", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.5ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/search.html.erb within layouts/application (16.2ms)
+Completed 200 OK in 67ms (Views: 17.2ms | ActiveRecord: 2.5ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:48:54 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Ford&Search=Search" for 127.0.0.1 at 2013-06-22 13:48:54 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Ford", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.5ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/search.html.erb within layouts/application (14.4ms)
+Completed 200 OK in 64ms (Views: 15.5ms | ActiveRecord: 2.5ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 13:49:57 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 14:14:11 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Ford&Search=Search" for 127.0.0.1 at 2013-06-22 14:14:11 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Ford", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.5ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/search.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 66ms (Views: 16.0ms | ActiveRecord: 2.5ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/cars/browse" for 127.0.0.1 at 2013-06-22 14:15:56 -0400
+Processing by CarsController#browse as HTML
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.6ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mManufacturer Load (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mManufacturer Load (0.0ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/browse.html.erb within layouts/application (66.3ms)
+Completed 200 OK in 73ms (Views: 70.2ms | ActiveRecord: 2.6ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 14:18:03 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Ford&Search=Search" for 127.0.0.1 at 2013-06-22 14:18:03 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Ford", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.7ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/search.html.erb within layouts/application (21.2ms)
+Completed 200 OK in 72ms (Views: 22.0ms | ActiveRecord: 2.6ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/cars/browse" for 127.0.0.1 at 2013-06-22 14:18:09 -0400
+Processing by CarsController#browse as HTML
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (5.0ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mManufacturer Load (0.1ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mManufacturer Load (0.0ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered cars/_sidebar.html.erb (0.2ms)
+  Rendered cars/browse.html.erb within layouts/application (76.9ms)
+Completed 200 OK in 83ms (Views: 76.6ms | ActiveRecord: 6.5ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-06-22 14:31:49 -0400
+Processing by CarsController#home as HTML
+  Rendered cars/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/search?search_input=Ford&Search=Search" for 127.0.0.1 at 2013-06-22 14:31:49 -0400
+Processing by CarsController#search as HTML
+  Parameters: {"search_input"=>"Ford", "Search"=>"Search"}
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.6ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered cars/_sidebar.html.erb (0.2ms)
+  Rendered cars/search.html.erb within layouts/application (14.9ms)
+Completed 200 OK in 65ms (Views: 15.8ms | ActiveRecord: 2.5ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/cars/browse" for 127.0.0.1 at 2013-06-22 14:37:46 -0400
+Processing by CarsController#browse as HTML
+  [1m[35mCar Load (0.1ms)[0m  SELECT "cars".* FROM "cars" 
+  [1m[36mManufacturer Load (1.6ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mManufacturer Load (0.1ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mManufacturer Load (0.0ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "manufacturers".* FROM "manufacturers" WHERE "manufacturers"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered cars/_sidebar.html.erb (0.3ms)
+  Rendered cars/browse.html.erb within layouts/application (67.1ms)
+Completed 200 OK in 74ms (Views: 71.0ms | ActiveRecord: 2.6ms)
+  [1m[35m (0.1ms)[0m  rollback transaction

@@ -1,69 +1,33 @@
 <div class="block">
-  <h2>Advanced Search</h2>
-  <form name="search"  action="/cars/advanced_search" method="get" style="margin-left: 15px; border: 0px; padding-bottom: 15px;">
-    Search by Make <input  type="text"  name="search_input">
-    <input  type="submit"  value="Search">
-  </form>
-  <form name="search"  action="/cars/advanced_search" method="get" style="margin-left: 15px; border: 0px; padding-bottom: 15px;">
-    Search by Model <input  type="text"  name="search_input">
-    <input  type="submit"  value="Search">
-  </form>
-  <form name="search"  action="/cars/advanced_search" method="get" style="margin-left: 15px;border: 0px; padding-bottom: 15px;">
-    Search by Style   <input  type="text"  name="search_input">
-    <input  type="submit"  value="Search">
-  </form>
-  <form name="search"  action="/cars/advanced_search" method="get" style="margin-left: 15px; border: 0px; padding-bottom: 15px;">
-    Search by Year   <input  type="text"  name="search_input">
-    <input  type="submit"  value="Search">
-  </form>
-  <form name="search"  action="/cars/advanced_search" method="get" style="margin-left: 15px; border: 0px; padding-bottom: 15px;">
-    Minimum Price   <input  type="text"  name="price1">
+  <div class="secondary-navigation">
+    <ul class="wat-cf">
+      <li class="first active"><%= link_to "Browse", :cars_browse  %></li>
 
-    Maximum Price   <input  type="text"  name="price2">
-    <input  type="submit"  value="Search">
-  </form>
-
+    </ul>
+  </div>
   <div class="content">
-    <h2 class="title">Search Results</h2>
+    <h2 class="title">Advance Search</h2>
     <div class="inner">
-      <table class="table">
-        <tr>
-          <th class="first">ID</th>
-          <th>
-            <%= t("activerecord.attributes.car.make", :default => t("activerecord.labels.make", :default => "Make")) %>
-          </th>
-          <th>
-            <%= t("activerecord.attributes.car.model", :default => t("activerecord.labels.model", :default => "Model")) %>
-          </th>
-          <th><%= t("web-app-theme.created_at", :default => "Created at")  %></th>
-          <th class="last">&nbsp;</th>
-        </tr>
-
-        <% @results.each do |car| %>
-            <tr class="<%= cycle("odd", "even") %>">
-              <td>
-                <%= car.id %>
-              </td>
-              <td>
-                <%= link_to car.make, car_path(car) %>
-              </td>
-              <td>
-                <%= link_to car.model, car_path(car) %>
-              </td>
-              <td>
-                <%= car.created_at %>
-              </td>
-              <td class="last">
-                <%= link_to "#{t("web-app-theme.show", :default => "Show")}", car_path(car) %> |
-                <%= link_to "#{t("web-app-theme.edit", :default => "Edit")}", edit_car_path(car) %> |
-                <%= link_to "#{t("web-app-theme.delete", :default => "Delete")}", car_path(car), :method => :delete, :confirm => "#{t("web-app-theme.confirm", :default => "Are you sure?")}" %>
-              </td>
-            </tr>
-        <% end %>
-        <% if @results.length == 0 %>
-            <tr class="<%= cycle("odd","even")%>">No cars matched your search</tr>
-        <% end  %>
-      </table>
+      <form name="search"  action="/cars/search" method="get" style="border: 0px; margin-top:10px;">
+        Search by model<input  type="text"  name="search_input">
+        <input  type="submit"  value="Search">
+      </form>
+      <form name="search"  action="/cars/search" method="get" style="border: 0px; margin-top:10px;">
+        Search by style<input  type="text"  name="search_input">
+        <input  type="submit"  value="Search">
+      </form>
+      <form name="search"  action="/cars/search" method="get" style="border: 0px; margin-top:10px;">
+        Search by year<input  type="text"  name="search_input">
+        <input  type="submit"  value="Search">
+      </form>
+      <form name="search"  action="/cars/search" method="get" style="border: 0px; margin-top:10px;">
+        Search by miles above <input  type="text"  name="search_input">
+        <input  type="submit"  value="Search">
+      </form>
+      <form name="search"  action="/cars/search" method="get" style="border: 0px; margin-top:10px;">
+        Price below <input  type="text"  name="search_input">
+        <input  type="submit"  value="Search">
+      </form>
       <div class="actions-bar wat-cf">
         <div class="actions">
         </div>

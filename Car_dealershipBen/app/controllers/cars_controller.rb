@@ -1,5 +1,5 @@
 class CarsController < ApplicationController
-  before_filter :authenticate_manager!, :except => [:browse, :show, :location, :search, :home]
+  before_filter :authenticate_manager!, :except => [:browse, :show, :location, :search, :home, :advanced_search]
   # GET /cars
   # GET /cars.json
   def index
@@ -89,6 +89,21 @@ class CarsController < ApplicationController
     Car.all.each do |car|
        if (car.description.include?(@search_term.to_s))
          @results << car
+          else if(car.model.to_s.match(@search_term.to_s))
+                  @results << car
+            else if(car.style.to_s.match(@search_term.to_s))
+                   @results << car
+              else if(car.year.to_s.match(@search_term.to_s))
+                     @results << car
+
+                       else if(car.price.to_i < @search_term.to_i)
+                       @results << car
+                      end
+
+                   end
+                 end
+               end
+
        end
      end
   end

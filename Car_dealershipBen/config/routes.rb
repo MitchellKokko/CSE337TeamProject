@@ -7,14 +7,14 @@ CarDealership::Application.routes.draw do
 
   devise_for :managers do
     get "/admin" =>  "devise/sessions#new"
-    get "/admin/add" =>  "devise#register_other"
   end
+
   resources :managers
 
   match 'cars/search' => 'cars#search'
   match 'location' => 'cars#location'
   match 'cars/browse' => 'cars#browse'
-
+  match 'cars/advanced_search' => 'cars#advanced_search'
 
   resources :cars
   root :to => 'cars#home'

@@ -6,9 +6,13 @@
     </ul>
   </div>
   <div class="content">
-    <h2 class="title">Browse Cars</h2>
+    <h2 class="title">Search Results</h2>
     <div class="inner">
       <table class="table">
+        <% if @results.length < 1 %>
+           <p>No Results</p>
+            <%= link_to "Try Again", :cars_advanced_search %>
+        <% else %>
         <% @results.each do |car| -%>
             <tr class="<%= cycle("odd", "even2") %>">
               <td>
@@ -27,7 +31,8 @@
                 <%= link_to "#{t("web-app-theme.show", :default => "More Details")}", car_path(car) %>
               </td>
             </tr>
-        <% end -%>
+        <% end %>
+        <% end %>
       </table>
       <div class="actions-bar wat-cf">
         <div class="actions">
